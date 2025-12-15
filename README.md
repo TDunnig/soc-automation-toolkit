@@ -44,8 +44,3 @@ actions:
 - Alert processing: <2 seconds per alert
 - Ticket creation: <5 seconds
 - Playbook execution: Parallel processing for multiple alerts
-
-## Roadmap
-- Integration with Kubernetes for containerized detection
-- Advanced ML for behavioral baselining
-- Automated threat hunting suggestions
